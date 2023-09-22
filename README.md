@@ -1,0 +1,1 @@
+### End to End Encryped chat application using Elliptic Curve Dephie Hellman (ECDH) for sharing secret keys and used AES-256 GCM for message data encyption. Used React js in frontend and Node js and Express in Backend.
